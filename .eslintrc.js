@@ -18,5 +18,6 @@ module.exports = {
     'no-unused-expressions': 'off',
     'quote-props': 'off',
     'no-param-reassign': 'off',
+    'import/no-unresolved': 'off',
   },
 };
