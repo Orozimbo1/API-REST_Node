@@ -19,5 +19,6 @@ module.exports = {
     'quote-props': 'off',
     'no-param-reassign': 'off',
     'import/no-unresolved': 'off',
+    'camelcase': 'off',
   },
 };
